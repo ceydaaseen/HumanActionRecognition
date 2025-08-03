@@ -1,0 +1,1 @@
+In this project, human action recognition was performed using the CNN and LSTM algorithms in the Python programming language. The prepared codes were studied with the KTH dataset and a dataset I created myself.
